@@ -1,0 +1,2389 @@
+Array
+(
+    [ID] => 1
+    [UF_USER] => 1
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 5008040124
+    [UF_NAME] => ÎÎÎ «ÍÈÊÑ Êîìïüþòåðíûé Ñóïåðìàðêåò»
+    [UF_TYPE] => 5
+    [UF_CODE] => 5008040124
+    [UF_TEL] => +7(495)974-33-33
+    [UF_EMAIL] => opt@nix.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 1
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => i6MUwIPlxe8ZseaXPejx02NQevDWe81c
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 2
+    [UF_USER] => 2
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 54351354645
+    [UF_NAME] => Øîó-ðóì Beatris
+    [UF_TYPE] => 4
+    [UF_CODE] => 5008034178
+    [UF_TEL] => +7(922)903-17-59
+    [UF_EMAIL] => beatris.opt@mail.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 2
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 1Cyrcm4lPR7PyBhw1tH3QKhtY31kdnX6
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 12
+    [UF_USER] => 
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:17:34.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 1
+    [UF_USER] => 1
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 5008040124
+    [UF_NAME] => ÎÎÎ «ÍÈÊÑ Êîìïüþòåðíûé Ñóïåðìàðêåò»
+    [UF_TYPE] => 5
+    [UF_CODE] => 5008040124
+    [UF_TEL] => +7(495)974-33-33
+    [UF_EMAIL] => opt@nix.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 1
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => i6MUwIPlxe8ZseaXPejx02NQevDWe81c
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 2
+    [UF_USER] => 2
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 54351354645
+    [UF_NAME] => Øîó-ðóì Beatris
+    [UF_TYPE] => 4
+    [UF_CODE] => 5008034178
+    [UF_TEL] => +7(922)903-17-59
+    [UF_EMAIL] => beatris.opt@mail.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 2
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 1Cyrcm4lPR7PyBhw1tH3QKhtY31kdnX6
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 12
+    [UF_USER] => 
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:17:34.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 15
+    [UF_USER] => 
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:21:16.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 1
+    [UF_USER] => 1
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 5008040124
+    [UF_NAME] => ÎÎÎ «ÍÈÊÑ Êîìïüþòåðíûé Ñóïåðìàðêåò»
+    [UF_TYPE] => 5
+    [UF_CODE] => 5008040124
+    [UF_TEL] => +7(495)974-33-33
+    [UF_EMAIL] => opt@nix.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 1
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => i6MUwIPlxe8ZseaXPejx02NQevDWe81c
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 2
+    [UF_USER] => 2
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 54351354645
+    [UF_NAME] => Øîó-ðóì Beatris
+    [UF_TYPE] => 4
+    [UF_CODE] => 5008034178
+    [UF_TEL] => +7(922)903-17-59
+    [UF_EMAIL] => beatris.opt@mail.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 2
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 1Cyrcm4lPR7PyBhw1tH3QKhtY31kdnX6
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 15
+    [UF_USER] => 
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:21:16.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 16
+    [UF_USER] => 
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:21:20.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 1
+    [UF_USER] => 1
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 5008040124
+    [UF_NAME] => ÎÎÎ «ÍÈÊÑ Êîìïüþòåðíûé Ñóïåðìàðêåò»
+    [UF_TYPE] => 5
+    [UF_CODE] => 5008040124
+    [UF_TEL] => +7(495)974-33-33
+    [UF_EMAIL] => opt@nix.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 1
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => i6MUwIPlxe8ZseaXPejx02NQevDWe81c
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 2
+    [UF_USER] => 2
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 54351354645
+    [UF_NAME] => Øîó-ðóì Beatris
+    [UF_TYPE] => 4
+    [UF_CODE] => 5008034178
+    [UF_TEL] => +7(922)903-17-59
+    [UF_EMAIL] => beatris.opt@mail.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 2
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 1Cyrcm4lPR7PyBhw1tH3QKhtY31kdnX6
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 15
+    [UF_USER] => 
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:21:16.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 16
+    [UF_USER] => 
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:21:20.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 1
+    [UF_USER] => 1
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 5008040124
+    [UF_NAME] => ÎÎÎ «ÍÈÊÑ Êîìïüþòåðíûé Ñóïåðìàðêåò»
+    [UF_TYPE] => 5
+    [UF_CODE] => 5008040124
+    [UF_TEL] => +7(495)974-33-33
+    [UF_EMAIL] => opt@nix.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 1
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => i6MUwIPlxe8ZseaXPejx02NQevDWe81c
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 2
+    [UF_USER] => 2
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 54351354645
+    [UF_NAME] => Øîó-ðóì Beatris
+    [UF_TYPE] => 4
+    [UF_CODE] => 5008034178
+    [UF_TEL] => +7(922)903-17-59
+    [UF_EMAIL] => beatris.opt@mail.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 2
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 1Cyrcm4lPR7PyBhw1tH3QKhtY31kdnX6
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 1
+    [UF_USER] => 1
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 5008040124
+    [UF_NAME] => ÎÎÎ «ÍÈÊÑ Êîìïüþòåðíûé Ñóïåðìàðêåò»
+    [UF_TYPE] => 5
+    [UF_CODE] => 5008040124
+    [UF_TEL] => +7(495)974-33-33
+    [UF_EMAIL] => opt@nix.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 1
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => i6MUwIPlxe8ZseaXPejx02NQevDWe81c
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 2
+    [UF_USER] => 2
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 54351354645
+    [UF_NAME] => Øîó-ðóì Beatris
+    [UF_TYPE] => 4
+    [UF_CODE] => 5008034178
+    [UF_TEL] => +7(922)903-17-59
+    [UF_EMAIL] => beatris.opt@mail.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 2
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 1Cyrcm4lPR7PyBhw1tH3QKhtY31kdnX6
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 17
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:22:54.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 1
+    [UF_USER] => 1
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 5008040124
+    [UF_NAME] => ÎÎÎ «ÍÈÊÑ Êîìïüþòåðíûé Ñóïåðìàðêåò»
+    [UF_TYPE] => 5
+    [UF_CODE] => 5008040124
+    [UF_TEL] => +7(495)974-33-33
+    [UF_EMAIL] => opt@nix.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 1
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => i6MUwIPlxe8ZseaXPejx02NQevDWe81c
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 2
+    [UF_USER] => 2
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 54351354645
+    [UF_NAME] => Øîó-ðóì Beatris
+    [UF_TYPE] => 4
+    [UF_CODE] => 5008034178
+    [UF_TEL] => +7(922)903-17-59
+    [UF_EMAIL] => beatris.opt@mail.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 2
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 1Cyrcm4lPR7PyBhw1tH3QKhtY31kdnX6
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 17
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:22:54.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 18
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:23:28.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 1
+    [UF_USER] => 1
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 5008040124
+    [UF_NAME] => ÎÎÎ «ÍÈÊÑ Êîìïüþòåðíûé Ñóïåðìàðêåò»
+    [UF_TYPE] => 5
+    [UF_CODE] => 5008040124
+    [UF_TEL] => +7(495)974-33-33
+    [UF_EMAIL] => opt@nix.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 1
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => i6MUwIPlxe8ZseaXPejx02NQevDWe81c
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 2
+    [UF_USER] => 2
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 54351354645
+    [UF_NAME] => Øîó-ðóì Beatris
+    [UF_TYPE] => 4
+    [UF_CODE] => 5008034178
+    [UF_TEL] => +7(922)903-17-59
+    [UF_EMAIL] => beatris.opt@mail.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 2
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 1Cyrcm4lPR7PyBhw1tH3QKhtY31kdnX6
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 17
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:22:54.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 18
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:23:28.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 19
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:24:29.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 1
+    [UF_USER] => 1
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 5008040124
+    [UF_NAME] => ÎÎÎ «ÍÈÊÑ Êîìïüþòåðíûé Ñóïåðìàðêåò»
+    [UF_TYPE] => 5
+    [UF_CODE] => 5008040124
+    [UF_TEL] => +7(495)974-33-33
+    [UF_EMAIL] => opt@nix.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 1
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => i6MUwIPlxe8ZseaXPejx02NQevDWe81c
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 2
+    [UF_USER] => 2
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 54351354645
+    [UF_NAME] => Øîó-ðóì Beatris
+    [UF_TYPE] => 4
+    [UF_CODE] => 5008034178
+    [UF_TEL] => +7(922)903-17-59
+    [UF_EMAIL] => beatris.opt@mail.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 2
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 1Cyrcm4lPR7PyBhw1tH3QKhtY31kdnX6
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 17
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:22:54.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 18
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:23:28.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 19
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:24:29.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 20
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:25:02.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => XML+0
+    [UF_NAME] => Company 0
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 1
+    [UF_USER] => 1
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 5008040124
+    [UF_NAME] => ÎÎÎ «ÍÈÊÑ Êîìïüþòåðíûé Ñóïåðìàðêåò»
+    [UF_TYPE] => 5
+    [UF_CODE] => 5008040124
+    [UF_TEL] => +7(495)974-33-33
+    [UF_EMAIL] => opt@nix.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 1
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => i6MUwIPlxe8ZseaXPejx02NQevDWe81c
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 2
+    [UF_USER] => 2
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 54351354645
+    [UF_NAME] => Øîó-ðóì Beatris
+    [UF_TYPE] => 4
+    [UF_CODE] => 5008034178
+    [UF_TEL] => +7(922)903-17-59
+    [UF_EMAIL] => beatris.opt@mail.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 2
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 1Cyrcm4lPR7PyBhw1tH3QKhtY31kdnX6
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 17
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:22:54.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 18
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:23:28.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 19
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:24:29.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 20
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:25:02.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => XML+0
+    [UF_NAME] => Company 0
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 21
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:25:17.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => XML+0
+    [UF_NAME] => Company 0
+    [UF_TYPE] => 5
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 1
+    [UF_USER] => 1
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 5008040124
+    [UF_NAME] => ÎÎÎ «ÍÈÊÑ Êîìïüþòåðíûé Ñóïåðìàðêåò»
+    [UF_TYPE] => 5
+    [UF_CODE] => 5008040124
+    [UF_TEL] => +7(495)974-33-33
+    [UF_EMAIL] => opt@nix.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 1
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => i6MUwIPlxe8ZseaXPejx02NQevDWe81c
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 2
+    [UF_USER] => 2
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 12:54:23.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 54351354645
+    [UF_NAME] => Øîó-ðóì Beatris
+    [UF_TYPE] => 4
+    [UF_CODE] => 5008034178
+    [UF_TEL] => +7(922)903-17-59
+    [UF_EMAIL] => beatris.opt@mail.ru
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 2
+    [UF_PARTNER_STATE] => 1
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-09 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 1Cyrcm4lPR7PyBhw1tH3QKhtY31kdnX6
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 17
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:22:54.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 0
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 18
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:23:28.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 19
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:24:29.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => 
+    [UF_NAME] => 
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 20
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:25:02.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => XML+0
+    [UF_NAME] => Company 0
+    [UF_TYPE] => 4
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 21
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 15:25:17.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+            [userTimeEnabled:protected] => 
+        )
+
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => XML+0
+    [UF_NAME] => Company 0
+    [UF_TYPE] => 5
+    [UF_CODE] => 
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
+Array
+(
+    [ID] => 22
+    [UF_USER] => 33
+    [UF_DATE_REGISTER] => 
+    [UF_ACTIVE] => 1
+    [UF_XML_ID] => XML+0
+    [UF_NAME] => Company 0
+    [UF_TYPE] => 5
+    [UF_CODE] => 1386729530
+    [UF_TEL] => 
+    [UF_EMAIL] => 
+    [UF_LOGO] => 
+    [UF_BANNER] => 
+    [UF_DESCRIPTION] => 
+    [UF_FULL_DESCRIPTION] => 
+    [UF_PARTNER_STATUS] => 
+    [UF_PARTNER_STATE] => 
+    [UF_COMMISSION_DATE_CHECK] => Bitrix\Main\Type\Date Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2024-09-10 00:00:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Berlin
+                )
+
+        )
+
+    [UF_API_KEY] => 
+    [UF_IMPORT_UPDATE] => 
+    [UF_IMPORT_ADD] => 
+    [UF_CONTRACTOR] => 
+    [UF_IS_CONTRACTOR] => 1
+    [UF_FIO] => 
+    [UF_PERSON] => 
+)
